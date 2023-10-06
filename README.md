@@ -15,6 +15,9 @@ I'm absolutely passionate about programming, and my insatiable desire to enhance
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/scoxfield)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/scofieldalx/)  
 
+<p><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/scofield.png" alt="scofieldalx"></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoxfield&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="scoxfield" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scoxfield&show_icons=true&theme=tokyonight&locale=en" alt="scoxfield" /></p>
+
